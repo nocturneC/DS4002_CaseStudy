@@ -2,7 +2,7 @@
 Elaine Shagdarjav
 
 # Hook and Rubric
-The hook document outlining the case study is the file labeled ___. The rubric ____CS2Rubric_Gerrymandering.pdf____ outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be referenced continously throughout your completion of the case study to guarantee success on the assignment.
+The hook document outlining the case study is the file labeled Hook.pdf; The rubric ____CS2Rubric_Gerrymandering.pdf____ outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be referenced continously throughout your completion of the case study to guarantee success on the assignment.
 
 # Data
 
