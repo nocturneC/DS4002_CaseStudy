@@ -10,5 +10,5 @@ The necessary data for this case study can be found in the materials folder, nam
 
 # Materials
 
-The materials folder contains helpful resources to aid in understanding ARIMA and how to define its parameters.
+The materials folder contains helpful resources to understand the context of the motivation and to aid in understanding ARIMA and how to define its parameters.
 
